@@ -1,6 +1,6 @@
 {
   "name": "chem-table-enterprise",
-  "version": "23.2.1",
+  "version": "1.0.2",
   "description": "use for chem-grid",
   "main": "index.cjs.js",
   "scripts": {
