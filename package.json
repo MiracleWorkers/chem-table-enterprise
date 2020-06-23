@@ -1,0 +1,23 @@
+{
+  "name": "chem-table-enterprise",
+  "version": "23.2.1",
+  "description": "use for chem-grid",
+  "main": "index.cjs.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MiracleWorkers/chem-table-enterprise.git"
+  },
+  "keywords": [
+    "grid",
+    "enterprise"
+  ],
+  "author": "atomjaylee",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MiracleWorkers/chem-table-enterprise/issues"
+  },
+  "homepage": "https://github.com/MiracleWorkers/chem-table-enterprise#readme"
+}
